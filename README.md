@@ -1,4 +1,5 @@
 # bard_bloc_
+<img width="191" alt="image" src="https://github.com/gopikarp/counteApp_Bloc/assets/100861026/ccf99080-9aff-4169-96d9-3f9e84e2c400">
 
 A new Flutter project.
 
